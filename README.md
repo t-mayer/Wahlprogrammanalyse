@@ -8,3 +8,5 @@ So far the election programmes by the following political parties are present:
 - Bündnis 90/Die Grünen
 - SPD
 - Die Linke
+- AfD
+- CDU
